@@ -1,0 +1,5 @@
+--> redux is used to contain the data in a application and react is for represent a
+view.
+
+--> Redux centralized all the data in a single object called state. This state would
+application level state.
